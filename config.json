@@ -1,0 +1,43 @@
+{
+    "name": "Minimal",
+    "author": "Nithou",
+    "description": "[Minimalist theme for Onion]",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#848484",
+        "font": "/font/Nunito-Bold.ttf",
+        "size": 24
+    },
+    "title": {
+        "font": "/font/Nunito-Bold.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "/font/Nunito-Bold.ttf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "/font/Nunito-Bold.ttf",
+        "grid1x4": 22,
+        "grid3x4": 22,
+        "color": "#686868",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/font/Nunito-Bold.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": true
+    }
+}
