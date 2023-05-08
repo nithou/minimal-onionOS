@@ -2,42 +2,39 @@
     "name": "Minimal",
     "author": "Nithou",
     "description": "[Minimalist theme for Onion]",
+    "hideIconTitle": false,
+    "hideLabels": { "icons": false, "hints": true },
     "batteryPercentage": {
         "visible": false,
-        "color": "#848484",
-        "font": "/font/Nunito-Bold.ttf",
-        "size": 24
+        "font": "Nunito-Bold.ttf",
+        "size": 14,
+        "color": "#FFFFFF",
+        "offsetX": 13,
+        "offsetY": 0,
+        "onleft": true
     },
     "title": {
-        "font": "/font/Nunito-Bold.ttf",
+        "font": "Nunito-Bold.ttf",
         "size": 25,
         "color": "#FFFFFF"
     },
     "hint": {
-        "font": "/font/Nunito-Bold.ttf",
-        "size": 40,
+        "font": "Nunito-Bold.ttf",
+        "size": 25,
         "color": "#FFFFFF"
     },
-    "currentpage": {
-        "color": "#FFFFFF"
-    },
-    "total": {
-        "color": "#FFFFFF"
-    },
+    "currentpage": { "color": "#FFFFFF" },
+    "total": { "color": "#FFFFFF" },
     "grid": {
-        "font": "/font/Nunito-Bold.ttf",
-        "grid1x4": 22,
-        "grid3x4": 22,
+        "font": "Nunito-Bold.ttf",
+        "grid1x4": 25,
+        "grid3x4": 20,
         "color": "#686868",
         "selectedcolor": "#FFFFFF"
     },
     "list": {
-        "font": "/font/Nunito-Bold.ttf",
+        "font": "Nunito-Bold.ttf",
         "size": 25,
         "color": "#FFFFFF"
-    },
-    "hideLabels": {
-        "icons": false,
-        "hints": true
     }
 }
