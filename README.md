@@ -1,4 +1,4 @@
-# Minimal for Onion OS
+<img src="https://github.com/nithou/onion-minimal/raw/main/preview-onion.png" alt="minimal. for Onion OS"/>
 
 Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Themes/commits/main/themes/mini.os%20by%20nationalsoup) with additions to work on Onion OS 4.2 Beta
 
