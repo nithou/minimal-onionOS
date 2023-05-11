@@ -1,4 +1,4 @@
-<img src="https://github.com/nithou/onion-minimal/raw/main/preview-onion.png" alt="minimal. for Onion OS"/>
+<img src="https://github.com/nithou/onion-minimal/raw/main/_img/preview-onion.png" alt="minimal. for Onion OS"/>
 
 Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Themes/commits/main/themes/mini.os%20by%20nationalsoup) with additions to work on Onion OS 4.2 Beta
 
@@ -6,7 +6,7 @@ Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Th
 
 ## Examples of the theme
 
-<img src="https://github.com/nithou/onion-minimal/raw/main/theme-onionOS.png" width=400 alt="Example of the Home" style="display:inline-block;"/>&nbsp;&nbsp;<img src="https://github.com/nithou/onion-minimal/raw/main/game-list.png" width=400 alt="Example of the Recents" style="display:inline-block;"/>
+<img src="https://github.com/nithou/onion-minimal/raw/main/_img/theme-onionOS.png" width=400 alt="Example of the Home" style="display:inline-block;"/>&nbsp;&nbsp;<img src="https://github.com/nithou/onion-minimal/raw/main/_img/game-list.png" width=400 alt="Example of the Recents" style="display:inline-block;"/>
 
 
 ## Compatible box art set
