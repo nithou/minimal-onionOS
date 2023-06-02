@@ -1,40 +1,43 @@
 {
     "name": "minimal.",
     "author": "Nithou",
-    "description": "[Minimalist theme for Onion]",
-    "hideIconTitle": false,
-    "hideLabels": { "icons": false, "hints": true },
+    "description": "Minimalist theme for Onion",
     "batteryPercentage": {
         "visible": false,
         "font": "Nunito-Bold.ttf",
-        "size": 14,
-        "color": "#FFFFFF",
-        "offsetX": 13,
-        "offsetY": 0,
-        "onleft": true
+        "size": 24,
+        "color": "#FFFFFF"
     },
     "title": {
         "font": "Nunito-Bold.ttf",
-        "size": 25,
+        "size": 24,
         "color": "#FFFFFF"
     },
     "hint": {
         "font": "Nunito-Bold.ttf",
-        "size": 25,
-        "color": "#FFFFFF"
+        "size": 24,
+        "color": "#141414"
     },
-    "currentpage": { "color": "#FFFFFF" },
-    "total": { "color": "#FFFFFF" },
+    "currentpage": { 
+        "color": "#FFFFFF" 
+    },
+    "total": { 
+        "color": "#FFFFFF" 
+    },
     "grid": {
         "font": "Nunito-Bold.ttf",
-        "grid1x4": 25,
-        "grid3x4": 20,
+        "grid1x4": 22,
+        "grid3x4": 22,
         "color": "#686868",
         "selectedcolor": "#FFFFFF"
     },
+    "hideLabels": {
+        "icons": false,
+        "hints":true
+    },
     "list": {
         "font": "Nunito-Bold.ttf",
-        "size": 25,
+        "size": 24,
         "color": "#FFFFFF"
     }
 }
